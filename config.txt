@@ -19,4 +19,4 @@ sequelize model:generate --name transactionDetails --attributes customer_number:
 // bikin manual folder sesuai MVC
 10. router 
 11. controller
-12. model (kalau gk otomatis ada dari hasil sequelize init)
+12. model (kalau ga otomatis ada dari hasil sequelize init)
